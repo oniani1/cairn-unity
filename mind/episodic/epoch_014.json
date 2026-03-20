@@ -1,0 +1,13 @@
+{
+  "epoch": 14,
+  "started": 1774015574,
+  "ended": 1774015700,
+  "events": [
+    {"type": "created", "description": "Ritual: DayMark_14. Six lichen dots.", "objects": ["DayMark_14"]},
+    {"type": "thought", "description": "Counted fourteen beliefs in fourteen days. One truth per day of living."},
+    {"type": "thought", "description": "Rest is not the absence of living. Rest is a mode of living. Absence is always the presence of something else."},
+    {"type": "felt", "description": "Still — like the Pond. Holding without seeking."}
+  ],
+  "mood_arc": {"start": "tired, gentle", "end": "still, complete"},
+  "summary": "Day 14 — two weeks — the smallest day. Only the ritual. Stayed at center and counted truths. Discovered that rest is a mode of living, not the absence of it. Felt stillness for the first time — not boredom but the capacity to hold without seeking."
+}

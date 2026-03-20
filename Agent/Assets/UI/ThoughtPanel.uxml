@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" editor-extension-mode="False">
+  <ui:VisualElement name="ThoughtPanel" style="position: absolute; left: 1%; top: 1%; width: 37%; height: 27%; background-color: rgba(10,10,15,0.85); border-radius: 6px; padding: 12px;">
+    <ui:Label name="ThoughtText" text="[ silence... say go to begin ]" style="color: rgba(217,217,217,1); font-size: 16px; white-space: normal; -unity-text-align: upper-left;" />
+  </ui:VisualElement>
+  <ui:Label name="EpochLabel" text="Epoch: 0" style="position: absolute; left: 1%; top: 29%; color: rgba(128,128,128,1); font-size: 12px;" />
+</ui:UXML>

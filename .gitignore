@@ -1,0 +1,42 @@
+# Unity generated
+Agent/Library/
+Agent/Temp/
+Agent/Obj/
+Agent/Build/
+Agent/Builds/
+Agent/Logs/
+Agent/UserSettings/
+Agent/MemoryCaptures/
+
+# IDE
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+Agent/Assets/StreamingAssets/aa.meta
+Agent/Assets/StreamingAssets/aa/
+
+# MCP session cache
+/tmp/mcp_session_id
+
+# Claude Code project memory (not part of the agent's mind)
+.claude/

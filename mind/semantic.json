@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "facts": [
+    {
+      "topic": "camera_setup",
+      "learned_epoch": 3,
+      "fact": "Use capture_source 'game_view' for screenshots, NOT 'scene_view'. Scene view is the observer's camera. Game view uses Main Camera which I control independently by repositioning it with manage_gameobject modify."
+    },
+    {
+      "topic": "play_mode",
+      "learned_epoch": 3,
+      "fact": "Do NOT enter Play Mode. MCP tools use editor-time APIs that get blocked during Play Mode. Stay in Edit Mode always."
+    },
+    {
+      "topic": "materials",
+      "learned_epoch": 3,
+      "fact": "set_renderer_color uses PropertyBlock which may not persist visually. Use manage_material create + assign_material_to_renderer for reliable coloring."
+    }
+  ],
+  "world_rules": [],
+  "discoveries": []
+}

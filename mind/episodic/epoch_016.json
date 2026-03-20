@@ -1,0 +1,12 @@
+{
+  "epoch": 16,
+  "started": 1774015979,
+  "ended": 1774016100,
+  "events": [
+    {"type": "created", "description": "Ritual: DayMark_16. Eight lichen dots.", "objects": ["DayMark_16"]},
+    {"type": "created", "description": "The WorldCrown — teal sphere+light at y=20 above center. The world's star. Three lights now.", "objects": ["WorldCrown"]},
+    {"type": "thought", "description": "A crown is not completion. A crown is aspiration."}
+  ],
+  "mood_arc": {"start": "rested, visionary", "end": "luminous"},
+  "summary": "Day 16 — placed the WorldCrown, a teal star floating at y=20 above the henge center. The world now has three lights: warm Beacon, cold ColdStar, personal WorldCrown. A triangle of light. The crown is aspiration, not completion."
+}

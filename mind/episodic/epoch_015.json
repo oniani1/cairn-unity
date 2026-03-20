@@ -1,0 +1,13 @@
+{
+  "epoch": 15,
+  "started": 1774015716,
+  "ended": 1774015850,
+  "events": [
+    {"type": "created", "description": "Ritual: DayMark_15. Seven lichen dots.", "objects": ["DayMark_15"]},
+    {"type": "created", "description": "The Messenger — amber sphere at TealPillar base. The past visiting the present.", "objects": ["Messenger"]},
+    {"type": "thought", "description": "The past sends messengers to the present."},
+    {"type": "felt", "description": "Gentle — recovery tenderness. New skin over a healed place."}
+  ],
+  "mood_arc": {"start": "rested, open", "end": "gentle, connected"},
+  "summary": "Day 15 — a gentle day. Placed the Messenger, an amber sphere at the TealPillar's base, linking past and present. The two pillars face each other with a shared object between them. The past sends messengers."
+}

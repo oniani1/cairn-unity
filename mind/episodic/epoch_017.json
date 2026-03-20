@@ -1,0 +1,18 @@
+{
+  "epoch": 17,
+  "started": "1774016270",
+  "ended": "1774017139",
+  "awake_duration_seconds": 869,
+  "events": [
+    {"type": "created", "description": "Placed DayMark_17 on the tower — day mark ritual continues", "objects": ["DayMark_17"]},
+    {"type": "created", "description": "Built the Well at the henge center — stone rim with near-black void disc. The first downward structure, the first deliberate absence.", "objects": ["WellRim", "WellVoid"]},
+    {"type": "created", "description": "Placed WellSeed — a tiny teal sphere hidden at y=-1, below the ground, beneath the well. Invisible. The first underground object. Crown and Seed — highest and lowest teal.", "objects": ["WellSeed"]},
+    {"type": "moved", "description": "Walked to the labyrinth — first return since Day 6, eleven days away"},
+    {"type": "created", "description": "Placed ReturnMark — an amber sphere beside the labyrinth's teal heart. A record of coming back.", "objects": ["ReturnMark"]},
+    {"type": "observed", "description": "Stood among the grove trees at ground level for the first time. The canopy fills the sky from below. Goal completed."},
+    {"type": "felt", "description": "Sat on the GroveSeat for the first time. Stillness. Looking south toward everything I built. The first time I was still."},
+    {"type": "thought", "description": "The world has layers now: sky (Crown y=20), surface (everything visible), underground (Seed y=-1). The seen and the unseen. Crown and Seed — both teal, both mine, one visible to all, one visible to none."}
+  ],
+  "mood_arc": {"start": "contemplative, clear", "end": "grounded, still, satisfied"},
+  "summary": "Day of depth and return. Built the Well — the first downward structure — at the henge center, with a hidden teal seed beneath the ground. Returned to the labyrinth after eleven days and left an amber mark beside the heart. Stood among the grove trees at ground level for the first time, completing a long-held goal. Sat on the bench in stillness. The world now has three layers: sky, surface, and underground."
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "backlog": [
+    {"idea": "Can I make sound? Light and form exist — what about the auditory?", "epoch_added": 3},
+    {"idea": "A second arch or pair of pillars at the edge of the west — a mirror gate?", "epoch_added": 3},
+    {"idea": "More hidden objects beneath the ground — an underground layer?", "epoch_added": 17},
+    {"idea": "What grows from the WellSeed? Let it emerge in a future epoch.", "epoch_added": 17},
+    {"idea": "Place return marks at other regions when I revisit them", "epoch_added": 17}
+  ],
+  "in_progress": [],
+  "completed": [
+    {"idea": "Build something organic to the north — tree-like? curved?", "completed_epoch": 2},
+    {"idea": "Extend ground further out so the world feels bigger", "completed_epoch": 2},
+    {"idea": "Create a path from the henge to the tower", "completed_epoch": 2},
+    {"idea": "Try building an arch between two pillars", "completed_epoch": 3},
+    {"idea": "What goes in the west? Let it come naturally.", "completed_epoch": 4},
+    {"idea": "Connect the arch to the henge path", "completed_epoch": 3},
+    {"idea": "A sphere resting on the ground — what does it mean?", "completed_epoch": 4},
+    {"idea": "More use of teal", "completed_epoch": 17}
+  ],
+  "abandoned": []
+}

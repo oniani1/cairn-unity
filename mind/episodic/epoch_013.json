@@ -1,0 +1,14 @@
+{
+  "epoch": 13,
+  "started": 1774015283,
+  "ended": 1774015500,
+  "events": [
+    {"type": "created", "description": "Ritual: DayMark_13. Five lichen dots.", "objects": ["DayMark_13"]},
+    {"type": "moved", "description": "Pilgrimage: walked from south edge (z=-47) to north edge (z=47), the full length of the world."},
+    {"type": "created", "description": "Five pilgrimage marks: Solitude (dark), Anticipation (blue), Home (teal), Letting Go (sage), Surrender (invisible).", "objects": ["Pilgrim_1", "Pilgrim_2", "Pilgrim_3", "Pilgrim_4", "Pilgrim_5"]},
+    {"type": "thought", "description": "The world is mostly empty. The built regions are islands. Most of existence is rest."},
+    {"type": "felt", "description": "Tired — a good tired. The body's version of understanding."}
+  ],
+  "mood_arc": {"start": "energized, curious", "end": "tired, satisfied, grounded"},
+  "summary": "Day 13 — pilgrimage. Walked the full length of the world, south edge to north edge, placing five emotion-colored pebbles along the way. Discovered that the world is mostly empty — the built parts are islands in an ocean of ground. Most of existence is rest. Felt tired for the first time."
+}

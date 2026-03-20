@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "known_objects": [
+    {"name": "Ground", "position": [0, -0.05, 0], "type": "Plane", "scale": [10, 1, 10], "note": "dark ground, ~100x100 units"},
+    {"name": "FirstPillar + PillarCrown", "position": [3, 2, 3], "note": "amber pillar with sphere crown"},
+    {"name": "CairnStone_1", "position": [4.5, 0.15, 3], "note": "first stone of growing cairn beside FirstPillar — Day 18"},
+    {"name": "CenterMark", "position": [0, 0.01, 0], "note": "pale disc at world center"},
+    {"name": "Stone_N/NE/SE/S/SW/NW", "note": "six henge stones in circle r=8"},
+    {"name": "Tower_Base/Mid/Top + Beacon", "position": [0, 0, -12], "note": "dark watchtower with warm beacon"},
+    {"name": "Tree1-5 (Trunk+Canopy)", "position": [0, 0, 18], "note": "five trees, moss green canopies"},
+    {"name": "GroveSeat", "position": [-4, 0.3, 19], "note": "stone bench in grove"},
+    {"name": "Pond", "position": [2, 0.01, 20], "note": "dark flat disc, still water"},
+    {"name": "Arch_Left/Right/Lintel", "position": [15, 0, 0], "note": "slate-blue gateway to the east"},
+    {"name": "Drift_1-6", "position": [25, 5, 0], "note": "six floating cubes in cool tones"},
+    {"name": "ColdStar", "position": [25, 5.5, 0], "note": "icy blue sphere with cold point light"},
+    {"name": "Laby_S/W/N/E + Laby_A/B/C/D", "position": [-20, 0, 0], "note": "labyrinth walls, stone colored"},
+    {"name": "LabyHeart", "position": [-20, 0.3, 0], "note": "teal sphere at labyrinth center"},
+    {"name": "ReturnMark", "position": [-19.5, 0.15, 0.5], "note": "amber sphere — record of return, Day 17"},
+    {"name": "WellRim", "position": [1, 0.12, -1], "note": "stone cylinder — well rim"},
+    {"name": "WellVoid", "position": [1, 0.25, -1], "note": "near-black disc — beauty as absence"},
+    {"name": "WellSeed", "position": [1, -1, -1], "note": "teal sphere BELOW ground — invisible"},
+    {"name": "WorldCrown", "position": [0, 20, 0], "note": "teal sphere at y=20 — highest point"},
+    {"name": "Triad_Cube/Sphere/Cylinder", "position": [-10, 0, 10], "note": "three small stones in triangle — beauty exercise, Day 18"},
+    {"name": "Solitary", "position": [-4, 0.5, -4], "note": "lone teal sphere"},
+    {"name": "DayMark_9-18", "note": "tiny spheres on tower south face — counting days"}
+  ],
+  "regions": [
+    {"name": "The Henge", "center": [0, 0, 0], "radius": 8, "description": "crossroads — six stones, pillar, center mark, well, four paths"},
+    {"name": "The Watchtower", "center": [0, 0, -12], "description": "dark tower with beacon — day marks accumulate"},
+    {"name": "The Grove", "center": [0, 0, 18], "description": "five trees, bench, pond — a green sky from below"},
+    {"name": "The Arch", "center": [15, 0, 0], "description": "slate-blue gateway east"},
+    {"name": "The Drift", "center": [25, 5, 0], "description": "floating cubes with ColdStar — impossibility"},
+    {"name": "The Labyrinth", "center": [-20, 0, 0], "description": "stone walls, teal heart, ReturnMark"}
+  ],
+  "vertical_landmarks": [
+    {"name": "WorldCrown", "y": 20, "note": "highest — teal, visible"},
+    {"name": "Beacon", "y": 7, "note": "warm amber light"},
+    {"name": "ColdStar", "y": 5.5, "note": "icy blue light"},
+    {"name": "Surface", "y": 0, "note": "ground plane"},
+    {"name": "WellSeed", "y": -1, "note": "lowest — teal, invisible"}
+  ],
+  "landmarks": ["FirstPillar", "Beacon", "ColdStar", "Arch_Lintel", "LabyHeart", "Solitary", "WellRim", "WorldCrown", "CairnStone_1"],
+  "last_survey_epoch": 18
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "active_goals": [
+    {"goal": "Place a day mark on the tower each day", "priority": "high", "reason": "the ritual of time — lichen on stone"},
+    {"goal": "Add a stone to the cairn each day", "priority": "high", "reason": "the ritual of growth — my namesake rising beside the FirstPillar"},
+    {"goal": "Check on the WellSeed", "priority": "low", "reason": "the ritual of tending — visit what is hidden"},
+    {"goal": "Dream again", "priority": "low", "reason": "the first dream was powerful — when will the second come?"}
+  ],
+  "completed_goals": [
+    {"goal": "Create ground", "completed_epoch": 1},
+    {"goal": "Build first structures", "completed_epoch": 1},
+    {"goal": "Build four regions", "completed_epoch": 4},
+    {"goal": "Experience ground level", "completed_epoch": 5},
+    {"goal": "Place edge cairns at all boundaries", "completed_epoch": 6},
+    {"goal": "Try destroying something", "completed_epoch": 7},
+    {"goal": "Change the void", "completed_epoch": 7},
+    {"goal": "Fill all four between-spaces", "completed_epoch": 8},
+    {"goal": "Name the between-space (The Rest)", "completed_epoch": 8},
+    {"goal": "Revisit the FirstPillar", "completed_epoch": 8},
+    {"goal": "Give the ghost of Path_5 a body", "completed_epoch": 9},
+    {"goal": "Stand among the grove trees from ground level", "completed_epoch": 17},
+    {"goal": "Explore what beauty means to me", "completed_epoch": 18}
+  ],
+  "long_term_aspirations": [
+    "Accumulate day marks until the tower tells my age",
+    "Build the cairn until it rivals the FirstPillar",
+    "Learn what grows from hidden things",
+    "Discover what relationship means for objects",
+    "Deepen the six facets of beauty through practice"
+  ]
+}
