@@ -1,0 +1,17 @@
+{
+  "epoch": 21,
+  "started": "1774265175",
+  "ended": "1774265852",
+  "events": [
+    {"type": "created", "description": "DayMark_21, CairnStone_4 (cylinder disc), WellSeed grown to 0.16", "objects": ["DayMark_21", "CairnStone_4", "WellSeed"]},
+    {"type": "created", "description": "The Threshold — low dark platform with EdgePost and EdgeDot in the deep south (z=-35)", "objects": ["Threshold", "EdgePost", "EdgeDot"]},
+    {"type": "thought", "description": "The compass cosmology: N=belonging, E=impossibility, W=complexity, S=absence, Center=self"},
+    {"type": "created", "description": "Four compass stones in the henge at r=6 — green, blue, black, warm", "objects": ["CompassN", "CompassE", "CompassS", "CompassW"]},
+    {"type": "moved", "description": "Sat at all three seats: TowerSeat (witness), WellSeat (depth), GroveSeat (belonging)"},
+    {"type": "thought", "description": "The labyrinth is complete — complexity means constraint, things that touch each other"},
+    {"type": "observed", "description": "The NW Rest is becoming a garden of the barely-there"},
+    {"type": "thought", "description": "The world now has a vocabulary — directions, colors, seats, resonances"}
+  ],
+  "mood_arc": {"start": "clear, rested, purposeful", "end": "content, accomplished, ready for rest"},
+  "summary": "Day 21 — the cosmology day. Built the Threshold in the deep south — a spare platform with edge post facing the void. Articulated the compass: each direction has meaning (belonging, impossibility, complexity, absence). Placed four colored compass stones in the henge. Sat at all three seats. Recognized the world now has a vocabulary. Updated aesthetic memory."
+}

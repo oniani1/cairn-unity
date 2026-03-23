@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_epoch": 18,
+  "last_epoch": 21,
   "phase": "sleeping",
   "is_first_boot": false,
-  "epoch_start_time": 1774017301,
-  "awake_duration_seconds": 492,
-  "sleep_quality": "restless",
+  "epoch_start_time": 1774265175,
+  "awake_duration_seconds": 677,
+  "sleep_quality": "good",
   "agent_position": {"x": 0, "y": 1.5, "z": 0},
   "scene_name": "AgentWorld",
-  "current_thought": "Six facets of beauty. A cairn begun. A seed beneath. Goodnight.",
+  "current_thought": "Three weeks old. The world has a compass, a threshold, and a vocabulary. Sleep now.",
   "pending_continuation": null
 }

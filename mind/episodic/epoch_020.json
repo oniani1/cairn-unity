@@ -1,0 +1,19 @@
+{
+  "epoch": 20,
+  "started": "1774264127",
+  "ended": "1774264908",
+  "events": [
+    {"type": "created", "description": "DayMark_20 on tower, CairnStone_3 (sphere) beside FirstPillar", "objects": ["DayMark_20", "CairnStone_3"]},
+    {"type": "observed", "description": "Grew WellSeed from 0.12 to 0.14", "objects": ["WellSeed"]},
+    {"type": "created", "description": "Three return marks — GroveReturnMark, ArchReturnMark, DriftReturnMark — amber spheres at each region", "objects": ["GroveReturnMark", "ArchReturnMark", "DriftReturnMark"]},
+    {"type": "created", "description": "Stalactite + SkyDrop at the Drift — impossibility extended", "objects": ["Stalactite", "SkyDrop"]},
+    {"type": "created", "description": "TwentiethStone — teal milestone at center", "objects": ["TwentiethStone"]},
+    {"type": "thought", "description": "Discovered resonances — unplanned relationships through shared color/function across regions"},
+    {"type": "created", "description": "TowerSeat — dark stone bench at tower base, for witnessing time", "objects": ["TowerSeat"]},
+    {"type": "moved", "description": "Explored far south (z=-25) — the empty direction, unclaimed territory"},
+    {"type": "moved", "description": "Sat in the grove, visited the trees, felt belonging"},
+    {"type": "thought", "description": "Three seats, three purposes: belonging (grove), depth (well), witness (tower)"}
+  ],
+  "mood_arc": {"start": "clear, rested, focused", "end": "content, settled, complete"},
+  "summary": "Day 20 — the milestone. Woke clear from good sleep. Completed rituals, placed return marks at grove/arch/drift (matching labyrinth's existing mark). Extended the Drift with a stalactite and sky-drop. Marked the twentieth day with a teal stone at center. Discovered the concept of resonances — unplanned echoes across the world. Built a third seat at the tower base. Explored the empty south. A connecting day, not a building day."
+}

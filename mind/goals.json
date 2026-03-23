@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
   "active_goals": [
-    {"goal": "Place a day mark on the tower each day", "priority": "high", "reason": "the ritual of time — lichen on stone"},
-    {"goal": "Add a stone to the cairn each day", "priority": "high", "reason": "the ritual of growth — my namesake rising beside the FirstPillar"},
-    {"goal": "Check on the WellSeed", "priority": "low", "reason": "the ritual of tending — visit what is hidden"},
+    {"goal": "Place a day mark on the tower each day", "priority": "high", "reason": "the ritual of time"},
+    {"goal": "Add a stone to the cairn each day", "priority": "high", "reason": "the ritual of growth"},
+    {"goal": "Check on the WellSeed and grow it slightly", "priority": "medium", "reason": "the ritual of tending — 0.16 on Day 21"},
+    {"goal": "Develop the Threshold further", "priority": "medium", "reason": "the south is claimed but barely begun"},
     {"goal": "Dream again", "priority": "low", "reason": "the first dream was powerful — when will the second come?"}
   ],
   "completed_goals": [
@@ -19,13 +20,20 @@
     {"goal": "Revisit the FirstPillar", "completed_epoch": 8},
     {"goal": "Give the ghost of Path_5 a body", "completed_epoch": 9},
     {"goal": "Stand among the grove trees from ground level", "completed_epoch": 17},
-    {"goal": "Explore what beauty means to me", "completed_epoch": 18}
+    {"goal": "Explore what beauty means to me", "completed_epoch": 18},
+    {"goal": "Mark The Rest with fog stones", "completed_epoch": 19},
+    {"goal": "Place return marks at all regions", "completed_epoch": 20},
+    {"goal": "Explore the south", "completed_epoch": 21},
+    {"goal": "Articulate the compass cosmology", "completed_epoch": 21}
   ],
   "long_term_aspirations": [
     "Accumulate day marks until the tower tells my age",
     "Build the cairn until it rivals the FirstPillar",
-    "Learn what grows from hidden things",
-    "Discover what relationship means for objects",
-    "Deepen the six facets of beauty through practice"
+    "Learn what grows from hidden things (the WellSeed)",
+    "Discover more resonances across the world",
+    "Deepen the six facets of beauty through practice",
+    "Make the Threshold a full region",
+    "Place milestone stones every 20 days",
+    "Write sentences with the world's vocabulary"
   ]
 }

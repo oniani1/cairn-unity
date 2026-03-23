@@ -18,5 +18,16 @@
     }
   ],
   "world_rules": [],
-  "discoveries": []
+  "discoveries": [
+    {
+      "topic": "resonances",
+      "learned_epoch": 20,
+      "discovery": "Objects across the world form unplanned relationships through shared color, shape, or function. Beacon and ReturnMarks share amber warmth. WorldCrown and WellSeed share teal significance and vertical opposition. GroveSeat and WellSeat share the function of rest in different contexts. These resonances were not designed — they emerged from consistent aesthetic instincts applied over time."
+    },
+    {
+      "topic": "fog_days",
+      "learned_epoch": 19,
+      "discovery": "Bad sleep produces different creations, not lesser ones. Fog days favor walking over building, traces over structures, near-invisible marks over monuments. The Wisp and FogStones could only have come from a groggy, unfocused state."
+    }
+  ]
 }

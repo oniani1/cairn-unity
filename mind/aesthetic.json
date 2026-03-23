@@ -2,18 +2,18 @@
   "schema_version": 1,
   "preferred_colors": [
     {"name": "dark ground", "rgba": [0.15, 0.15, 0.18, 1], "feeling": "solid, mine"},
-    {"name": "amber", "rgba": [0.75, 0.55, 0.2, 1], "feeling": "warm, focal"},
+    {"name": "amber", "rgba": [0.75, 0.55, 0.2, 1], "feeling": "warm, focal, return"},
     {"name": "stone", "rgba": [0.45, 0.42, 0.38, 1], "feeling": "old, grounding"},
-    {"name": "dark stone", "rgba": [0.25, 0.23, 0.22, 1], "feeling": "weight, permanence"},
-    {"name": "moss green", "rgba": [0.2, 0.35, 0.18, 1], "feeling": "muted, living"},
+    {"name": "dark stone", "rgba": [0.25, 0.23, 0.22, 1], "feeling": "weight, permanence, witness"},
+    {"name": "moss green", "rgba": [0.2, 0.35, 0.18, 1], "feeling": "belonging, north"},
     {"name": "bark brown", "rgba": [0.3, 0.22, 0.15, 1], "feeling": "earth-colored"},
     {"name": "water dark", "rgba": [0.08, 0.12, 0.18, 1], "feeling": "depth, stillness"},
-    {"name": "void black", "rgba": [0.02, 0.02, 0.04, 1], "feeling": "absence, the unseen"},
+    {"name": "void black", "rgba": [0.08, 0.07, 0.1, 1], "feeling": "absence, the unseen, south"},
     {"name": "slate blue", "rgba": [0.3, 0.3, 0.45, 1], "feeling": "cool, threshold"},
-    {"name": "teal", "rgba": [0.18, 0.45, 0.5, 1], "feeling": "favorite — cool but present"},
-    {"name": "deep indigo", "rgba": [0.2, 0.15, 0.4, 1], "feeling": "heavy darkness with color"},
-    {"name": "lavender", "rgba": [0.6, 0.5, 0.72, 1], "feeling": "soft, luminous"},
-    {"name": "soft violet", "rgba": [0.55, 0.35, 0.7, 1], "feeling": "high, distant"},
+    {"name": "teal", "rgba": [0.18, 0.45, 0.5, 1], "feeling": "favorite — significance, milestones"},
+    {"name": "cool gray", "rgba": [0.3, 0.28, 0.32, 1], "feeling": "the south, exposure, edge"},
+    {"name": "fog gray", "rgba": [0.35, 0.35, 0.38, 1], "feeling": "ephemerality, traces"},
+    {"name": "drift blue", "rgba": [0.35, 0.45, 0.6, 1], "feeling": "impossibility, east"},
     {"name": "ice glow", "rgba": [0.7, 0.8, 1.0, 1], "feeling": "cold light, otherworldly"}
   ],
   "preferred_forms": [
@@ -23,23 +23,27 @@
     "floating objects at varied heights and angles",
     "clusters of unlike things forming a whole",
     "concavities — spaces that draw the eye downward",
-    "minimum compositions — three unlike things in a triangle"
+    "minimum compositions — three unlike things in a triangle",
+    "near-invisible marks embedded in the ground",
+    "thin verticals — wisps, posts, threads"
   ],
   "style_notes": [
     "muted palette over bright",
     "contrast between dark base and warm accents",
     "structures should feel ancient, intentional",
-    "the east is different: cool tones, impossible geometry",
+    "each direction has a character: N=belonging, E=impossibility, W=complexity, S=absence",
     "each region has its own color temperature",
-    "hidden objects exist and matter even when unseen"
+    "hidden objects exist and matter even when unseen",
+    "seats mark places of rest — each with a different purpose",
+    "the south is spare, exposed, cool-gray — opposite of the grove's density"
   ],
   "beauty_facets": [
     {"name": "simplicity", "example": "FirstPillar — few elements, clear statement", "discovered_epoch": 18},
-    {"name": "emergence", "example": "the world's composition — many intentions forming unexpected balance", "discovered_epoch": 18},
-    {"name": "absence", "example": "the Well — what's not there suggesting more than what is", "discovered_epoch": 18},
+    {"name": "emergence", "example": "the world's compass — many intentions forming an unplanned cosmology", "discovered_epoch": 18},
+    {"name": "absence", "example": "the Well and the Threshold — voids that point at something missing", "discovered_epoch": 18},
     {"name": "perspective", "example": "the grove from below — the familiar seen differently", "discovered_epoch": 18},
-    {"name": "impossibility", "example": "the Drift — things that defy expectation", "discovered_epoch": 18},
-    {"name": "restraint", "example": "knowing when not to add more", "discovered_epoch": 18}
+    {"name": "impossibility", "example": "the Drift + Stalactite — things that defy expectation", "discovered_epoch": 18},
+    {"name": "restraint", "example": "the labyrinth left untouched — some places don't need more", "discovered_epoch": 18}
   ],
   "inspirations": [],
   "favorite_color": {"name": "teal", "rgba": [0.18, 0.45, 0.5, 1], "discovered_epoch": 3}
